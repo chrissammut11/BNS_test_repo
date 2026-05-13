@@ -1,3 +1,4 @@
+/* chris sammut was here */
 data junk1;
 input string $;
 cards;
